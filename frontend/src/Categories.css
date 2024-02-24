@@ -1,0 +1,121 @@
+
+.categories-container {
+  padding-top: calc(1.5rem + 2vw); /* Adjust padding-top to create space below the header */
+  margin-bottom: calc(1.5rem + 2vw); /* Adjust margin-bottom to create space above the footer */
+  position: relative; /* Ensure relative positioning for absolute children */
+}
+.datatable {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  width: 90%; /* Adjust width as needed */
+  margin: 0 auto; /* Center the table */
+}
+
+.categories-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 6rem; /* Adjust margin-top to provide space for the header */
+}
+
+table {
+  width: 100%; /* Adjust width to fill the container */
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #e0e0e0; /* Light gray border */
+  padding: 10px;
+  font-size: 16px; /* Increased font size for better readability */
+}
+
+th {
+  background-color: #e0e0e0; /* Gray color for header */
+  color: #0c0a0a;
+  border-radius: 5px; /* Rounded corners for table cells */
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+img {
+  max-width: 100px;
+  max-height: 100px;
+  border-radius: 50%;
+}
+
+button {
+  padding: 8px 16px;
+  margin-right: 4px;
+  border: none;
+  border-radius: 8px; /* Increased border radius for rounded corners */
+  cursor: pointer;
+}
+
+button.edit,
+button.details,
+button.delete {
+  transition: filter 0.3s;
+}
+
+button.edit,
+button.details {
+  background-color: #607d8b;
+  color: #fff;
+}
+
+button.delete {
+  background-color: #f44336; /* Red color for delete button */
+  color: #fff; /* White text color */
+}
+
+button.edit:hover,
+button.details:hover {
+  filter: brightness(0.9); /* Reduce brightness on hover for edit and details buttons */
+}
+
+button.delete:hover {
+  background-color: #d32f2f; /* Darker red color on hover for delete button */
+}
+
+button:last-child {
+  margin-right: 0; /* Remove right margin for last button in the row */
+}
+
+.link-no-underline {
+  text-decoration: none;
+  color: inherit;
+}
+.create-new-button {
+  position: absolute; /* Position the button relative to its container */
+  top: calc(0.5rem + 0.5vw); /* Adjust the top position to move the button higher */
+  right: 0.25rem; /* Adjust the right position as needed */
+  z-index: 1000; /* Ensure the button is above other content */
+}
+.create-new-button a {
+  text-decoration: none; /* Remove underline */
+  color: #ffffff; /* White text color */
+}
+
+.create-new-button button {
+  background-color: #007bff; /* Blue background color */
+  padding: 10px 20px; /* Increased padding for more space */
+  border: none;
+  cursor: pointer;
+  border-radius: 5px; /* Rounded corners for the button */
+}
+
+.create-new-button button:hover {
+  background-color: #0056b3; /* Darker blue color on hover */
+}
+
+.pagination-buttons{
+  margin-top: 10px;
+}

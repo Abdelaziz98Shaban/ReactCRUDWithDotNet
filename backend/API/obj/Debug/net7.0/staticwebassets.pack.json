@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Problem Solving\\LuftBornTask\\backend\\API\\wwwroot\\uploads\\images\\Image054317409639.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\Image054317409639.jpg"
+    },
+    {
+      "Id": "D:\\Problem Solving\\LuftBornTask\\backend\\API\\wwwroot\\uploads\\images\\Image075703972788.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\Image075703972788.jpg"
+    },
+    {
+      "Id": "D:\\Problem Solving\\LuftBornTask\\backend\\API\\wwwroot\\uploads\\images\\Image075814022632.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\Image075814022632.jpg"
+    },
+    {
+      "Id": "D:\\Problem Solving\\LuftBornTask\\backend\\API\\wwwroot\\uploads\\images\\Image075943364199.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\Image075943364199.jpg"
+    },
+    {
+      "Id": "D:\\Problem Solving\\LuftBornTask\\backend\\API\\wwwroot\\uploads\\images\\Image081239884138.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\Image081239884138.jpg"
+    },
+    {
+      "Id": "D:\\Problem Solving\\LuftBornTask\\backend\\API\\wwwroot\\uploads\\images\\Image094243959469.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\Image094243959469.jpg"
+    },
+    {
+      "Id": "D:\\Problem Solving\\LuftBornTask\\backend\\API\\wwwroot\\uploads\\images\\Image112532080602.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\Image112532080602.jpg"
+    },
+    {
+      "Id": "D:\\Problem Solving\\LuftBornTask\\backend\\API\\wwwroot\\uploads\\images\\Image120354003607.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\Image120354003607.jpg"
+    },
+    {
+      "Id": "D:\\Problem Solving\\LuftBornTask\\backend\\API\\wwwroot\\uploads\\images\\Image121004568737.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\Image121004568737.jpg"
+    },
+    {
+      "Id": "D:\\Problem Solving\\LuftBornTask\\backend\\API\\wwwroot\\uploads\\images\\Image121020408938.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\Image121020408938.jpg"
+    },
+    {
+      "Id": "D:\\Problem Solving\\LuftBornTask\\backend\\API\\wwwroot\\uploads\\images\\Image121035543499.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\Image121035543499.jpg"
+    },
+    {
+      "Id": "D:\\Problem Solving\\LuftBornTask\\backend\\API\\wwwroot\\uploads\\images\\Image121038728380.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\Image121038728380.jpg"
+    },
+    {
+      "Id": "D:\\Problem Solving\\LuftBornTask\\backend\\API\\wwwroot\\uploads\\images\\Image121233891269.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\Image121233891269.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
